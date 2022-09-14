@@ -1,0 +1,2 @@
+# PLAGUE
+My plague simulator
